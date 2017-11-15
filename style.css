@@ -1,0 +1,44 @@
+body {
+    background: Gainsboro;
+}
+
+.logo {
+    display: flex
+}
+
+.banner {
+    width: 300px;
+    background: #01a9e7;
+    height: 530px;
+}
+
+.flex {
+    display: flex;
+}
+
+.block {
+    background: white;
+    height: 530px;
+    width: 668px
+}
+
+.margin {
+    margin-left: 175px;
+}
+
+.column {
+    margin-top: 20px;
+    margin-left: 22px;
+    display: flex
+}
+
+.lorem {
+    margin-left: 30px;
+    color: white;
+}
+
+.bg {
+    background-image: url(HB_Zima2017_968x320_GodKino_free.jpg);
+    width: 968px;
+    height: 320px
+}
