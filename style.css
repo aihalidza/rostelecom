@@ -19,7 +19,8 @@ body {
 .block {
     background: white;
     height: 530px;
-    width: 668px
+    width: 668px;
+    padding-left: 30px
 }
 
 .margin {
@@ -40,5 +41,61 @@ body {
 .bg {
     background-image: url(HB_Zima2017_968x320_GodKino_free.jpg);
     width: 968px;
-    height: 320px
+    height: 320px;
+    box-sizing: border-box;
+    padding-top: 50px;
+    padding-left: 30px
 }
+.lorems {
+    color: white;
+    font-size: 30px;
+    font-family: arial;
+}
+.lorem2 {
+    color: white;
+    font-size: 25px;
+    font-family: arial;
+}
+.lorema {
+    font-family: arial;
+    font-size: 20px;
+    color: black;
+}
+.podcluch{
+    color:black;
+    font-family: arial;
+    font-size: 17px;
+    margin-right: 5px
+}
+.ykt {
+    color: #01a9e7;
+    font-family: arial;
+    font-size: 17px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
